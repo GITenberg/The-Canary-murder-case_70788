@@ -1,5 +1,8 @@
 _repo: The-Canary-murder-case_70788
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70788-h/images/cover.jpg
 creator:
   author:
     agent_name: Van Dine, S. S.
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/S._S._Van_Dine
     - https://www.gutenberg.org/ebooks/author/9220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70788#The-Canary-murder-case
 gutenberg_issued: '2023-05-17'
 identifiers:
   gutenberg: '70788'
